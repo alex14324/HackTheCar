@@ -1,7 +1,7 @@
 Instrument Cluster Simulator for SocketCAN
 ------------------------------------------
 
-By: OpenGarages <agent.craig@gmail.com>
+By: OpenGarages <dinureddy1432@gmail.com>
 
 Compiling
 ---------
